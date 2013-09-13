@@ -2,7 +2,7 @@
 The Django Book
 ===============
 
-I will try to include the major changes in Django 1.5 compared to 1.3 untill then they changes can be found at https://docs.djangoproject.com/en/dev/releases/1.5/
+I will try to include the major changes in Django 1.5 compared to 1.4 untill then they changes can be found at https://docs.djangoproject.com/en/dev/releases/1.5/
 
 Welcome to the community edition of the Django Book!
 
